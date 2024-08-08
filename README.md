@@ -2,5 +2,9 @@ The app is made through using MVVM architecture. Retrofit and LiveData is used f
 Here is the sample working video of the app
 
 
-https://github.com/user-attachments/assets/e45c9bd1-2ac5-4158-80f9-6fc2776ea3d4
+
+
+
+
+https://github.com/user-attachments/assets/ed3ce8aa-c3b4-4a87-8919-61ad71e14311
 
